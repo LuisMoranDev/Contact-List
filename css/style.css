@@ -1,0 +1,66 @@
+body{
+    background-color: #f5f5f5;
+    font-family: 'Nunito Sans', sans-serif;
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+}
+.navbar{
+    background-color: #cf1b1b;
+    color: #f5f5f5;
+    
+}
+.heading{
+    margin-left: 20px;
+
+}
+.heading a{
+    color: #f5f5f5 !important;
+    text-decoration: none;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+
+.btn{
+    background-color: #f5f5f5;
+    color: #cf1b1b;
+    margin-right: 20px;
+}
+
+.container{
+    max-width: 60%;
+    margin: 20px auto 0px; 
+    color: #cf1b1b; 
+    background-color: #fff;
+    padding-top: 10px;
+}
+.add-form{
+    margin: 20px auto 20px;
+    padding: 20px 10px; 
+}
+
+.form-title{
+    text-align: center;
+}
+.form-btn{
+    background-color: #cf1b1b;
+    color: #fff; 
+    margin: 5px auto 5px; 
+}
+
+
+.form-group input{
+    max-width: 80%;
+}
+
+.card{
+    margin: 20px;
+    background-color: #fafafa;
+}
+
+.delete-btn{
+    background-color: #cf1b1b;
+    color: #fafafa;
+}
